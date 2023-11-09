@@ -1,2 +1,2 @@
 # proyectofinalIA
-Proyecto FINAL IA Luis Carlos Rodriguez
+Proyecto FINAL IA Luis Carlos Rodriguez Pacheco
